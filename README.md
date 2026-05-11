@@ -2,7 +2,7 @@
 
 This repository contains the solutions to the practicals for the Analysis of Algorithms (ADA) course.Each practical's aim, code, complexity analysis, and output are detailed below...
 .
-## Table of Contents............
+## Table of Contents.
 1.  [Factorial and Fibonacci](#1-factorial-and-fibonacci-iterative-and-recursive)
 2.  [Sorting Analysis (Insertion, Selection, Bubble)](#2-insertion-selection-bubble-sort-analysis)
 3.  [Binary Search](#3-binary-search)
@@ -762,3 +762,5 @@ if __name__ == '__main__':
 Following activities are selected:
 A3 A2 A5 A6 
 ```
+
+Thats all
